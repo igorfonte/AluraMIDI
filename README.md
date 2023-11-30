@@ -30,7 +30,7 @@ This project was developed using the following technologies:
 
 Alura MIDI is a Front-End interface application that represents a digital drum kit.
 
-- [Access the finished project online here.]()
+- [Access the finished project online here.](https://alura-midi-three-livid.vercel.app/)
 
 
 
